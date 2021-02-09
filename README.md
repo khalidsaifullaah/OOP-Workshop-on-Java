@@ -14,7 +14,7 @@ This repository contains the codes and assignments submitted by the students par
 <hr>
   Use the following commands one by one
 
--  `git pull origin master`
+-  `git pull origin main`
 
 -  `git checkout -b your_ID`; for example - `git checkout -b 011172043`
 
