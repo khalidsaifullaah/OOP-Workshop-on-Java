@@ -1,5 +1,5 @@
 # OOP-Workshop-on-Java
-This repository contains the codes and assignments submitted by the students participated in OOP Workshop presented by [UIU App Forum](https://appf.uiu.ac.bd/) and instructed by me.
+This repository contains the codes and assignments submitted by the students participated in OOP Workshop presented by [UIU App Forum](https://appf.uiu.ac.bd/).
 
 # Helpful Materials:
 
@@ -14,7 +14,10 @@ This repository contains the codes and assignments submitted by the students par
    	2. [CS50 Java SE 8 Programming Basics, by Bill Zhang](https://youtu.be/UaxRRO9175A)
    	3. [MIT Introduction to Java](https://youtube.com/playlist?list=PLXqaWKDQpdPn4UJ2fOFxl6Yl_DC51FFUL)
    	4. [Java GUI by thenewboston](https://youtube.com/playlist?list=PLcTTsr6vQDf3pW0MfF33rTOufHKG-8HZL)
-   	5. [Our Workshop video](https://youtube.com/playlist?list=PLtl_4y-2122FXGysy3F7x4dRLUPYWyAMC)
+   	5. [Our Workshop videos](https://youtube.com/playlist?list=PLtl_4y-2122FXGysy3F7x4dRLUPYWyAMC)
+
+
+# Assignment Submission Procedure:
 
 ### Initialization:
 <hr>
